@@ -1,2 +1,2 @@
-# Registro-Propiedad
-prueba de como subir un repositorio a git
+# Traza-3
+alumno : Emanuel Tirano
